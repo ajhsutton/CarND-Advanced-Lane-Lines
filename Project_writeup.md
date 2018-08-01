@@ -62,7 +62,7 @@ BEV projection is calculated by selecting a static region of interest for a came
 
 The OpenCV function "getPerspectiveTransform" can be then used to compute the forward and inverse perspective transformation
 
-![ROI selection](./output_images/perspective_roi.jpg "ROI selection")
+![ROI selection](./cal_outputtest_ROI.png "ROI selection")
 ![BEV Perspective Output](./output_images/perspective_output.jpg "BEV PerspectiveImage")
 
 #### Color and Gradient Transformations.
