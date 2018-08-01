@@ -103,7 +103,7 @@ Offset is similarly implied from the horizontal intersect of the lane lines in t
 
 ONce identified and projected onto the BEV perspective, the Identified lane area could be re-projected in to the original image space using the inverse perspective transform that converts BEV to camera perspective. The final result is shown below, including rendering of the estimated radius of curvature and offset information.
 
-![Lane Detection Output](./output_images/final_lane_render.jpg "Final Lane Detection")
+![Lane Detection Output](./output_images/output_screen.png "Final Lane Detection")
 
 
 #### Final Processed Video
